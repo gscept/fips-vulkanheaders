@@ -1,0 +1,8 @@
+#
+# fips-vulkanheaders
+#
+
+exports:
+  header-dirs:
+    - Vulkan-Headers/include
+              
